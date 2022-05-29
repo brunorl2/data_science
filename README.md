@@ -21,7 +21,7 @@ Portfolio de projetos
 
 ## Projetos:
 
-* **Analisando os Dados da cidade Atenas - Airbnb:** https://bit.ly/3M0a470
+* **Analisando os dados da cidade Atenas - Airbnb:** https://bit.ly/3M0a470
 
 
 
